@@ -4,5 +4,11 @@ I'm a computer engineer who's passionate about turning ideas into apps people ac
 
 I enjoy the whole journey of a product: sketching the UI, connecting APIs and third-party services, chasing smooth performance and finally seeing it live in the stores.
 
+What I'm working on
+
+QRTagNow — smart QR tags for cars, homes and gear. Scan a tag and reach the owner, without ever seeing their phone number.
+
+Web · App Store · Google Play
+
 Tech I use
 <p> <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,postgres,redux,androidstudio,apple,kotlin,figma,threejs,astro,git&perline=14" alt="React, Next.js, TypeScript, JavaScript, Node.js, PostgreSQL, Redux, Android, iOS, Kotlin, Figma, Three.js, Astro, Git"> </p> <br> <p align="center"><sub>Most of my work lives in private repos — the links above are the best way to see it. Always happy to chat about apps, design or a new idea.</sub></p>
