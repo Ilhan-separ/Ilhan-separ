@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm İlhan</h1> <p align="center"><b>Computer Engineer · Full Stack Developer</b></p> <p align="center"> <a href="https://ilhansepar.netlify.app"><img src="https://img.shields.io/badge/Website-111111?style=for-the-badge" alt="Website"></a> <a href="https://www.linkedin.com/in/ilhan-separ/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a> <a href="mailto:separilhan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge" alt="Email"></a> </p> <br>
 
-I'm a computer engineer who's passionate about turning ideas into apps people actually use. For the past 3 years I've been building mobile and web applications with React Native, React, TypeScript and Expo — on Android, iOS and the web.
+I'm a computer engineer who's passionate about turning ideas into apps people actually use. For the past 3 years I've been building full stack applications with React Native, React, NodeJs, Java Spring, TypeScript and Expo — on Android, iOS.
 
 I enjoy the whole journey of a product: sketching the UI, connecting APIs and third-party services, chasing smooth performance and finally seeing it live in the stores.
 
